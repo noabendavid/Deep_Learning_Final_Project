@@ -1,0 +1,12 @@
+torch
+torchvision
+einops
+tqdm
+scikit-learn
+numpy
+matplotlib
+seaborn
+pandas
+Pillow
+tabulate
+tensorflow
